@@ -6,7 +6,8 @@
     { "handle": "filesystem" }
   ],
   "env": {
-    "GEOLOCATION_API_KEY": "@geolocation-api-key",
-    "WEATHER_API_KEY": "@weather-api-key"
+  
+
+    "WEATHER_API_KEY": "7055a238f3b6dea93e3d5099b152d7d4"
   }
 }
