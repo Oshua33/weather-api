@@ -1,6 +1,4 @@
 # Ignore 
 .env
-
-
-
-.vercel
+_pycache_
+venv

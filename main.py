@@ -51,3 +51,7 @@ async def user(request: Request, user_name: str):
             "message": message
         }
     
+    
+# @app.get("/test-env")
+# async def test_env():rm -rf venv
+#     return {"WEATHER_API_KEY": WEATHER_API_KEY}
